@@ -3,7 +3,7 @@
 </h1>
 <div align="center">  
   
-[![Hack Club beest](img.shields.io/badge/Hack%20Club-Beest-6F4E37?style=for-the-badge&logo=hack-club&logoColor=red.svg)](https://beest.hackclub.com)
+[![Hack Club beest](https://img.shields.io/badge/Hack%20Club-Beest-6F4E37?style=for-the-badge&logo=hack-club&logoColor=red.svg)](https://beest.hackclub.com)
 
 </div>
 
@@ -58,6 +58,7 @@ soon!
   </table>
 </div>
 
+## Render
 
 ### Recommended Print Specifications
 
