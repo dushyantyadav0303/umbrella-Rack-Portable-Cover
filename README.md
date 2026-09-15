@@ -1,11 +1,12 @@
 <h1 align="center">
-<br> <img width=40% alt="banner" src="soon!" />
+<br> <img width=40% alt="banner" src="https://github.com/user-attachments/assets/6466db1e-7773-40a3-a197-b0ee4b8fe743" />
 </h1>
 <div align="center">  
-  
-[![Hack Club beest](https://img.shields.io/badge/Hack%20Club-Beest-6F4E37?style=for-the-badge&logo=hack-club&logoColor=red.svg)](https://beest.hackclub.com)
+
+[![Hack Club Live YSWS](https://img.shields.io/badge/Hack%20Club-Live%20YSWS-FFC800?style=for-the-badge&logo=hack-club&logoColor=red.svg)](https://Live.hackclub.com)
 
 </div>
+
 
 <h4 align="center">
 umbrella Rack + Portable Cover
@@ -31,10 +32,22 @@ umbrella Rack + Portable Cover
 
 <br>
 <br>
-<p align=center>
-<img alt="banner" src="soon!" width=100%/>
 
-</p>
+<div align="center">
+<table>
+<tr>
+<td valign="middle" align="center">
+    <img height="280" alt="image" src="https://github.com/user-attachments/assets/1964d340-6fee-4e93-8d9d-ad03b65de222" />
+
+</td>
+<td valign="middle" align="center">
+  <img height="280" alt="image" src="https://github.com/user-attachments/assets/4f27d867-e2ae-48a0-b7f6-824501aba1b4" />
+</td>
+</tr>
+</table>
+</div>
+
+
 
 ## About the Project
 
@@ -69,8 +82,7 @@ umbrella Rack + Portable Cover
       <td valign="bottom"><img width=100% alt="image" src="https://github.com/user-attachments/assets/07843325-0404-4152-9367-e03266a36a33" />
 
 </td>
-      <td valign="bottom"><img width=100% height=150% alt="image" src="soon" />
-
+      <td valign="bottom"><img width=100% height=150% alt="image" src="https://github.com/user-attachments/assets/3e6bd8de-87ae-4b34-8b78-74f735e3c4f3" />
   </td>
   </table>
 </div>
@@ -82,9 +94,11 @@ umbrella Rack + Portable Cover
 <div align="center">
   <table>
     <tr>
-      <td valign="bottom"><img width=100% alt="image" src="https://github.com/user-attachments/assets/07843325-0404-4152-9367-e03266a36a33" />
+      <td valign="bottom"><img width=100% alt="image" src="https://github.com/user-attachments/assets/5a856a24-8589-4d3d-9f5a-b605cc54d4e1" />
+
 </td>
-      <td valign="bottom"><img width=100% height=150% alt="image" src="soon" />
+      <td valign="bottom"><img width=100% height=150% alt="image" src="https://github.com/user-attachments/assets/a184ecc6-140c-4d3b-993e-b60409d50756" />
+
 
   </td>
   </table>
@@ -97,7 +111,7 @@ umbrella Rack + Portable Cover
 
 > [!Note]
 > FDM printing is not good Option for umbrella Rack. <br/>
-> Recommended: Use Wool and Screw to make it
+> Recommended: Use Wool to make it
 
 | Specification | Default Value / Range |
 | :--- | :--- |
@@ -118,9 +132,19 @@ umbrella Rack + Portable Cover
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 
-
 ## Credits
-This project was created during a [Hack Club](https://hackclub.com) event [Beest](https://beest.hackclub.com).
+<div align="center">
+
+[![Fusion 360](https://img.shields.io/badge/CAD%20in-Fusion%20360-orange?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/fusion-360)
+[![Hack Club Live YSWS](https://img.shields.io/badge/Hack%20Club-Live%20YSWS-FFC800?style=for-the-badge&logo=hack-club&logoColor=red.svg)](https://Live.hackclub.com)
+[![Blender](https://img.shields.io/badge/Rendered%20in-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org) 
+[![Bambu Studio](https://img.shields.io/badge/Rendered%20in-Bambu%20Studio-green?style=for-the-badge&logo=Bambulab&logoColor=white)](https://bambulab.com/en/download/studio) 
+
+</div>
+
+
+
+This project was created during a [Hack Club](https://hackclub.com) event [live](https://live.hackclub.com).
 - **[Fusion 360](https://www.autodesk.com/products/fusion-360)** - Cad Designing
 - **[Blender](https://www.blender.org)** - Render
 - **[Bambu Studio](https://bambulab.com/en/download/studio)** - Slicing the Model
